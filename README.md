@@ -1,6 +1,6 @@
 #MERN Lumia
 
-#Lessons
+#Process
 
 1. Intro
 2. Install tools
